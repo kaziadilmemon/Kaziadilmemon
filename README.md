@@ -12,14 +12,13 @@
 
 <p align="left"> <a href="https://twitter.com/kaziadilmemon" target="blank"><img src="https://img.shields.io/twitter/follow/kaziadilmemon?logo=twitter&style=for-the-badge" alt="kaziadilmemon" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript,Flutter**
+- 🌱 I’m currently learning **JavaScript,Flutter,Firebase,Google Cloud**
 
-- 💬 Ask me about **Web, Flutter.**
+- 💬 Ask me about **Web, Flutter, Google Analytics**
 
 - 📫 How to reach me **Kaziadilmemon702@gmail.com**
 
-- ⚡ Fun fact **not really.**
-
+- ⚡  I aspire to engage in partnerships with fellow content creators and developers, actively participate in Open Source initiatives, and bring my inventive concepts to fruition.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kaziadilmemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaziadilmemon" height="30" width="40" /></a>
