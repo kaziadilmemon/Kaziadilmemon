@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Adil Memon</h1>
-<h3 align="center">Front-End Developer | Director of Management - Google DSC MUET | General Secretary SES-MUET | Director of Marketing ACM-W MUET | Digital Marketer Intern Evolvve | Director of Marketing TAC | Software Engineer</h3>
+<h3 align="center">Founder - Rah e Ilahi | Director of Management - Google DSC MUET | Open Source Contributor - GSSOC'23 | IEEE Member | Web & Mobile App Developer | Flutter | React.js | Digital Marketer| Content Writer | Community Builder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaziadilmemon&label=Profile%20views&color=0e75b6&style=flat" alt="kaziadilmemon" /> </p>
 
@@ -14,9 +14,13 @@
 
 <p align="left"> <a href="https://twitter.com/kaziadilmemon" target="blank"><img src="https://img.shields.io/twitter/follow/kaziadilmemon?logo=twitter&style=for-the-badge" alt="kaziadilmemon" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript,Flutter,Firebase,Google Cloud**
+ 🌱 I’m currently learning **Flutter and React js**
 
-- 💬 Ask me about **Web, Flutter, Google Analytics**
+- 👨‍💻 All of my projects are available at [https://muhammadadilmemon.netlify.app/](My Portfolio)
+
+- 📝 I regularly write articles on [https://medium.com/@kaziadilmemon702](Medium)
+
+- 💬 Ask me about **JavaScript,Digital Marketing**
 
 - 📫 How to reach me **Kaziadilmemon702@gmail.com**
 
