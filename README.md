@@ -1,4 +1,6 @@
-![giphy](https://user-images.githubusercontent.com/96164867/236641553-ccf9a0ce-ad39-4f59-838f-d35f96b84ec0.gif)
+
+
+https://github.com/kaziadilmemon/Kaziadilmemon/assets/96164867/f0b23110-7b07-455a-85f5-be58acd3bb24
 
 
 <hr>
