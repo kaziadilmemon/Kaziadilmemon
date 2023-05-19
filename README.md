@@ -1,7 +1,6 @@
 
 
-https://github.com/kaziadilmemon/Kaziadilmemon/assets/96164867/f0b23110-7b07-455a-85f5-be58acd3bb24
-
+![Follow MUHAMMAD Adil Memon](https://github.com/kaziadilmemon/Kaziadilmemon/assets/96164867/b9d5d810-0478-44d1-a219-63bbbf8c8098)
 
 <hr>
 
