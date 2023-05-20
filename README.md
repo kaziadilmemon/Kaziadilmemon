@@ -19,9 +19,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [https://muhammadadilmemon.netlify.app/](https://muhammadadilmemon.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://muhammadadilmemon.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@kaziadilmemon702](https://medium.com/@kaziadilmemon702)
+- 📝 I regularly write articles on [Medium](https://medium.com/@kaziadilmemon702)
 
 - 💬 Ask me about **JavaScript,Digital Marketing**
 
