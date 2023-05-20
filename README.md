@@ -15,11 +15,13 @@
 <p align="left"> <a href="https://twitter.com/kaziadilmemon" target="blank"><img src="https://img.shields.io/twitter/follow/kaziadilmemon?logo=twitter&style=for-the-badge" alt="kaziadilmemon" /></a> </p>
 
  
-- 🌱 I’m currently learning **Flutter and React js**
+🌱 I’m currently learning **Flutter and React js**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://muhammadadilmemon.netlify.app/)
+- 👯 I’m looking to collaborate on **Open Source**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@kaziadilmemon702)
+- 👨‍💻 All of my projects are available at [https://muhammadadilmemon.netlify.app/](https://muhammadadilmemon.netlify.app/)
+
+- 📝 I regularly write articles on [https://medium.com/@kaziadilmemon702](https://medium.com/@kaziadilmemon702)
 
 - 💬 Ask me about **JavaScript,Digital Marketing**
 
