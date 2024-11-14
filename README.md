@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Adil Memon</h1>
-<h3 align="center"> LEAD Of MLSA Hyderabad | Data Engineer | Data Science | Community Builder</h3>
+<h3 align="center"> LEAD Of MLSA Hyderabad | Data Engineer | Data Science Enthusiast | Community Builder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaziadilmemon&label=Profile%20views&color=0e75b6&style=flat" alt="kaziadilmemon" /> </p>
 
