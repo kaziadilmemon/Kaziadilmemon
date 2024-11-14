@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Adil Memon</h1>
-<h3 align="center">Director of Management - Google DSC MUET | MERN Stack Developer | Flutter | Community Builder</h3>
+<h3 align="center"> LEAD Of MLSA Hyderabad | Data Engineer | Data Science | Community Builder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaziadilmemon&label=Profile%20views&color=0e75b6&style=flat" alt="kaziadilmemon" /> </p>
 
@@ -19,11 +19,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://www.muhammadadilmemon.com/)
+- 📝 I regularly write articles on [Medium](https://medium.com/@kaziadilmemon702)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@MuhammadAdil21)
-
-- 💬 Ask me about **MERN stack Development**
+- 💬 Ask me about **Data Engineering**
 
 - 📫 How to reach me **Kaziadilmemon702@gmail.com**
 
